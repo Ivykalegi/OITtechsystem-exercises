@@ -25,3 +25,6 @@ Please write a program in the language of your choice (C or GO prefered) to comp
 - Get the total of all `value` entries, values are `base64` encoded integers
 - Parse the uuid from the `info` field of each entry
 - Output the values total and the list of uuids in the format described by the JSON schema. Write this data to a file
+
+## How to check solutions 
+- check the answers.py and answers.json files
